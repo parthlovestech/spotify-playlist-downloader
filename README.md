@@ -22,7 +22,7 @@ This project allows you to download tracks from a Spotify playlist as MP3 files 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/spotify-to-mp3.git
+    git clone https://github.com/parthlovestech/spotify-to-mp3.git
     cd spotify-to-mp3
     ```
 
